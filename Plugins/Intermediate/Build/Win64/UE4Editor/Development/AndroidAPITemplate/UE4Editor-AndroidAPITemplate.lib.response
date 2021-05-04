@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AndroidAPITemplate.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Proj\UE\covid\CovidProject\Intermediate\Build\Win64\CovidProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Proj\UE\covid\CovidProject\Plugins\AndroidAPITemplate\Intermediate\Build\Win64\UE4Editor\Development\AndroidAPITemplate\Module.AndroidAPITemplate.cpp.obj"
+"F:\Proj\UE\covid\CovidProject\Plugins\AndroidAPITemplate\Intermediate\Build\Win64\UE4Editor\Development\AndroidAPITemplate\Module.AndroidAPITemplate.gen.cpp.obj"
+"F:\Proj\UE\covid\CovidProject\Plugins\AndroidAPITemplate\Intermediate\Build\Win64\UE4Editor\Development\AndroidAPITemplate\Default.rc2.res"
+/OUT:"F:\Proj\UE\covid\CovidProject\Plugins\AndroidAPITemplate\Intermediate\Build\Win64\UE4Editor\Development\AndroidAPITemplate\UE4Editor-AndroidAPITemplate.lib"
+/INCLUDE:IMPLEMENT_MODULE_AndroidAPITemplate

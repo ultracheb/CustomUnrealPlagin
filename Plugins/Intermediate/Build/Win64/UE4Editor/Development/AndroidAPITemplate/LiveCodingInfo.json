@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AndroidAPITemplate.cpp.obj": [
+			"AndroidAPITemplate.cpp.obj",
+			"AndroidAPITemplateFunctions.cpp.obj"
+		],
+		"Module.AndroidAPITemplate.gen.cpp.obj": [
+			"AndroidAPITemplate.init.gen.cpp.obj",
+			"AndroidAPITemplateFunctions.gen.cpp.obj"
+		]
+	}
+}
